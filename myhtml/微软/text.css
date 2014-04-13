@@ -1,0 +1,167 @@
+     
+*{padding:0; margin:0;}
+
+
+
+#head
+{
+    height:140px;
+    position: relative;
+}
+
+#container
+{
+    height:300px;
+    position: relative;
+}
+
+
+
+/************************************************************************/
+/*nav*/
+/********************************************************************/
+#nav
+{
+    width:960px;
+    height:35px;
+    margin-top:105px;
+    position: absolute;
+}
+#nav ul
+{
+    width:960px;
+    height:35px;
+}
+#nav ul li
+{
+    list-style-type :none; 
+    width:100px;
+    float:left;
+    text-align:center;
+    color:black;
+    font-size:18px;
+}
+
+#nav a:link,a:visited
+{
+    display:block;
+    color:#483D8B;
+    text-decoration:none;
+}
+
+#nav a:hover,a:active
+{
+    color:black;
+    text-decoration:underline;
+}
+
+
+
+
+/************************************************************************/
+/*logo*/
+/********************************************************************/
+#logo{width:1000px;height:px;position:absolute;margin-left:20px;margin-top:35px;}
+
+#logo_right{width:400px;height:105px;position:absolute;margin-left:800px;margin-top:-40px;}
+
+
+
+
+
+
+
+
+
+/************************************************************************/
+/*main*/
+/********************************************************************/
+#main{width:1200px;height:400px;position: relative;background-image: url(/home/jrx/example/myhtml/微软/OneCnsmr_WomanBraidsBG_0210_1600x540_ROW.jpg)}
+
+
+
+
+#div4{width:300px; height:150px; background-color:pink;margin-left:62px;margin-top:20px;position: absolute;float:left;}
+#div4 h1{position:relative;left:15px;top:15px;color:white;font-size:25px;}
+#div4 p{position:relative;left:15px;top:55px;color:white;font-size:15px;}
+#div4 a:link,a:visited{text-decoration:none;}
+
+#div4 a:hover,a:active{text-decoration:underline;}
+/************************************************************************/
+/*content*/
+/********************************************************************/
+#content
+{
+    width:400px;
+    height:300px;
+    float:left;
+}
+#content p
+{
+    margin-top:240px;
+    position: absolute;
+    float:left;
+    width:400px; 
+    height:60px;
+    color:#483D8B;
+    font-size:15px;
+    text-align:center;
+}
+#content img
+{ 
+    margin-left:10px; 
+    margin-top:40px;
+    position: absolute;
+    float:left;
+    width:360px;
+    height:180px;
+}
+#content a:link,a:visited
+{
+    display:block;
+    color:#483D8B;
+    text-decoration:none;
+}
+
+#content a:hover,a:active
+{
+    color:black;
+    text-decoration:underline;
+}
+
+
+
+
+
+/************************************************************************/
+/*footer*/
+/********************************************************************/
+#footer
+{height:300px;position: relative;}
+
+
+#footer_shop{width:300px; height:300px; float:left;}
+
+#footer_shop img{width:280px;height:150px; margin-left:10px; margin-top:40px;position: absolute;float:left;}
+#footer_shop p{margin-top:220px;margin-left:20px;position: absolute;float:left;width:360px; height:40px;color:#483D8B;font-size:15px}
+#footer_shop ul {list-style-type :none;line-height: 40px;float:left;margin-left:60px; margin-top:10px;position: absolute; color:#483D8B;font-size:20px;}
+#footer_shop h1{position:relative;left:60px;color:black;font-size:35px;}
+#footer_left{ margin-left:10px;position: absolute; color:#483D8B;font-size:20px;}
+#footere_left_p{width:50px;height:20px;position: absolute;float:left;color:#483D8B;font-size:18px}
+#footer_right{ margin-left:140px;position: absolute; color:#483D8B;font-size:20px;}
+#footere_right_p{width:50px;height:20px;position: absolute;float:left;color:#483D8B;font-size:18px}
+
+
+
+
+a.two:link {color:#483D8B;text-decoration:none;}
+a.two:visited {color:#483D8B;text-decoration:none;}
+a.two:hover {color:black;text-decoration:underline;}
+a.two:active {color:black;text-decoration:underline;}
+
+
+
+
+
+ 
+
